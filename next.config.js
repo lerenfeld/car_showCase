@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   //add image domain
-images = {
+images : {
   domains: ["cdn.imagin.studio"],
 },
 typescript: {
